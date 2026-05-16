@@ -1,4 +1,4 @@
-# Hola, soy Geugui 👋
+# Hola, soy Guillermo Eugui 
 
 **Full Stack · DAM · Sevilla**
 
@@ -10,7 +10,7 @@ Fuera del código: 6 años coordinando equipos en Scouts, que al final es gestio
 
 ---
 
-## 🛠️ Stack
+##  Stack
 
 **Backend**
 
@@ -38,7 +38,7 @@ Fuera del código: 6 años coordinando equipos en Scouts, que al final es gestio
 
 ---
 
-## 📌 Proyectos destacados
+## Proyectos destacados
 
 | Proyecto | Descripción | Tech |
 |---|---|---|
@@ -47,7 +47,7 @@ Fuera del código: 6 años coordinando equipos en Scouts, que al final es gestio
 
 ---
 
-## 📊 Stats
+##  Stats
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=geuguis&theme=dark&hide_border=true&locale=es" height="150"/>
