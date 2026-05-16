@@ -3,9 +3,10 @@
 **Full Stack · DAM · Sevilla**
 
 Estudio DAM y cuando no estoy en clase, estoy aquí subiendo cosas.  
-Me gustan los proyectos que acaban funcionando bien — no demos que solo corren en local.
+Me gustan los proyectos que acaban funcionando de verdad — no demos que solo corren en local.
 
 Ahora mismo explorando Next.js, mejorando mi portfolio y buscando donde meterme a trabajar.  
+Fuera del código: 6 años coordinando equipos en Scouts, que al final es gestionar personas con hoguera incluida.
 
 ---
 
@@ -49,11 +50,8 @@ Ahora mismo explorando Next.js, mejorando mi portfolio y buscando donde meterme 
 ## 📊 Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=geuguis&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geuguis&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=geuguis&theme=dark&hide_border=true&locale=es" height="150"/>
 </p>
-
-> Las tarjetas de stats pueden tardar unos segundos en cargar la primera vez.
 
 ---
 
