@@ -44,6 +44,7 @@ Fuera del código: 6 años coordinando equipos en Scouts, que al final es gestio
 | Proyecto | Descripción | Tech |
 |---|---|---|
 | [FREEKILAND 3D](https://github.com/geuguis/Practica-FREEKILAND3D-pagina-web) | Web completa entregada en 2 meses de prácticas. En producción. | JS · HTML5 · CSS3 · SQL |
+| [RogueGambit](https://github.com/geuguis/RogueGambit) | Roguelike deckbuilder por turnos sobre tablero de ajedrez, hecho sin frameworks ni build. | JS · HTML5 · CSS3 · Web Audio |
 | [Landing Page 003](https://github.com/geuguis/LandingPage-003) | Landing page moderna con diseño responsive | HTML · CSS |
 
 ---
