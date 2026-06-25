@@ -12,31 +12,12 @@ Fuera del código: 6 años coordinando equipos en Scouts, que al final es gestio
 
 ##  Stack
 
-**Backend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,cs,js,html,css,bootstrap,mysql,postgres,ubuntu,netbeans,md,git,github,vscode,lua,regex,bash,windows,powershell&perline=10" />
+  </a>
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-**Base de datos**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PL-SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**Herramientas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logoColor=white)
 
 ---
 
@@ -44,9 +25,11 @@ Fuera del código: 6 años coordinando equipos en Scouts, que al final es gestio
 
 | Proyecto | Descripción | Tech |
 |---|---|---|
-| [FREEKILAND 3D](https://github.com/geuguis/Practica-FREEKILAND3D-pagina-web) | Web completa entregada en 2 meses de prácticas. En producción. | JS · HTML5 · CSS3 · SQL |
+| [FREEKILAND 3D](https://github.com/geuguis/Practica-FREEKILAND3D-pagina-web) | Web completa entregada en 1 mes de prácticas. En producción. | JS · HTML5 · CSS3  |
 | [RogueGambit](https://github.com/geuguis/RogueGambit) | Roguelike deckbuilder por turnos sobre tablero de ajedrez, hecho sin frameworks ni build. | JS · HTML5 · CSS3 · Web Audio |
-| [Landing Page 003](https://github.com/geuguis/LandingPage-003) | Landing page moderna con diseño responsive | HTML · CSS |
+| [Landing Page 003](https://github.com/geuguis/LandingPage-003) | Landing page responsive y con diseño tematico y original. | HTML · CSS |
+| [Garry's Mod Workshop](https://steamcommunity.com/id/WarioWaaa/myworkshopfiles/?appid=4000) | Mods personalizados publicados en la comunidad de Steam. |   Lua · Source Engine <br> ![Steam Downloads](https://img.shields.io/badge/Descargas-55.000+-blue?style=flat&logo=steam&logoColor=white)|
+
 
 ---
 
@@ -60,7 +43,6 @@ Fuera del código: 6 años coordinando equipos en Scouts, que al final es gestio
 
 ## 📬 Contacto
 
-¿Necesitas un junior que aprenda rápido, entregue en plazo y traiga mentalidad de equipo desde el día uno?
 
 Estoy disponible en **Sevilla** y en **remoto**.
 
