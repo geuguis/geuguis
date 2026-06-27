@@ -14,7 +14,7 @@ Fuera del código: 6 años coordinando equipos en Scouts, que al final es gestio
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cs,js,html,css,bootstrap,mysql,postgres,ubuntu,netbeans,md,git,github,vscode,lua,regex,bash,windows,powershell&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,py,cs,js,html,css,bootstrap,mysql,postgres,ubuntu,md,git,github,vscode,lua,regex,bash,windows,powershell&perline=10" />
   </a>
 </p>
 
