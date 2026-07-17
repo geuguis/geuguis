@@ -28,7 +28,6 @@ Fuera del código: 6 años coordinando equipos en Scouts, que al final es gestio
 | [FREEKILAND 3D](https://github.com/geuguis/Practica-FREEKILAND3D-pagina-web) | Web completa entregada en 1 mes de prácticas. En producción. | JS · HTML5 · CSS3  |
 | [RogueGambit](https://github.com/geuguis/RogueGambit) | Roguelike deckbuilder por turnos sobre tablero de ajedrez, hecho sin frameworks ni build. | JS · HTML5 · CSS3 · Web Audio |
 | [Landing Page 003](https://github.com/geuguis/LandingPage-003) | Landing page responsive y con diseño tematico y original. | HTML · CSS |
-| [Garry's Mod Workshop](https://steamcommunity.com/id/WarioWaaa/myworkshopfiles/?appid=4000) | Mods personalizados publicados en la comunidad de Steam. |   Lua · Source Engine <br> ![Steam Downloads](https://img.shields.io/badge/Descargas-55.000+-blue?style=flat&logo=steam&logoColor=white)|
 
 
 ---
