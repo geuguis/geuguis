@@ -10,7 +10,7 @@ Estudio DAM y me enfoco en crear proyectos funcionales, desplegados y listos par
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cs,js,html,css,dart,lua,md,bootstrap,flutter,unity,mysql,postgres,ubuntu,linux,windows,bash,powershell,regex,git,github,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,py,cs,js,html,css,kotlin,dart,lua,md,bootstrap,flutter,unity,mysql,postgres,ubuntu,linux,windows,bash,powershell,regex,git,github,vscode&perline=10" />
   </a>
 </p>
 
