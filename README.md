@@ -34,7 +34,7 @@ Estudio DAM y me enfoco en crear proyectos funcionales, desplegados y listos par
 
 ---
 
-## Contacto & Disponibilidad
+## Contacto y Disponibilidad
 
 Disponible para posiciones en **Sevilla** o en **remoto**.
 
