@@ -22,6 +22,7 @@ Estudio DAM y me enfoco en crear proyectos funcionales, desplegados y listos par
 |---|---|---|---|
 | **FREEKILAND 3D** | Web comercial completa desarrollada durante periodo de prácticas. En producción real. | JS · HTML5 · CSS3 | [Repo](https://github.com/geuguis/Practica-FREEKILAND3D-pagina-web) |
 | **RogueGambit** | Roguelike deckbuilder por turnos sobre tablero de ajedrez (Vanilla JS, sin frameworks). | JS · Canvas · Web Audio | [Repo](https://github.com/geuguis/RogueGambit) · [Demo](https://geuguis.github.io/RogueGambit/) |
+| **CATAN Web** | Version Web Local del juego de mesa CATAN. | HTML · CSS · JS | [Repo](https://github.com/geuguis/CATAN-Web) · [Web](https://geuguis.github.io/CATAN-Web//) |
 | **Portfolio Personal** | Espacio centralizado para proyectos, trayectoria y contacto. | HTML · CSS · JS | [Repo](https://github.com/geuguis/Portfolio) · [Web](https://geuguis.github.io/Portfolio/) |
 
 ---
