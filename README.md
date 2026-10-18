@@ -30,7 +30,7 @@ Estudio DAM y me enfoco en crear proyectos funcionales, desplegados y listos par
 ## Actividad en GitHub
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=geuguis&theme=dark&hide_border=true&locale=es" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geuguis&theme=dark" />
 </p>
 
 ---
